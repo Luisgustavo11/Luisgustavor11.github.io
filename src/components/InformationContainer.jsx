@@ -1,6 +1,7 @@
 import React from "react";
 import { AiFillPhone, AiOutlineMail, AiFillEnvironment } from "react-icons/ai"
 import '../styles/components/informationContainer.sass'
+// Informaçoes de contato
 
 const InformationContainer = () => {
     return (
